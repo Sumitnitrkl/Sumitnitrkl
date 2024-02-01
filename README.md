@@ -16,9 +16,6 @@
 - 💬 Ask me about **unity,python,c,c++**
 
 - 📫 How to reach me **sumitkumar07081998@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LJ5WNl268DcQdG0UDKhhUtpaKep2asEL/view?usp=drive_link](https://drive.google.com/file/d/1LJ5WNl268DcQdG0UDKhhUtpaKep2asEL/view?usp=drive_link)
-
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
