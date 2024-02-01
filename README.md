@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://i.pinimg.com/736x/59/49/b8/5949b81729d9fb19380d756cb3b32e71.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Sumit kumar</h1>
 <h3 align="center">A passionate GAME DEVELOPER from India</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/119/119939.gif">
@@ -16,6 +16,8 @@
 - 💬 Ask me about **unity,python,c,c++**
 
 - 📫 How to reach me **sumitkumar07081998@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LJ5WNl268DcQdG0UDKhhUtpaKep2asEL/view?usp=drive_link](https://drive.google.com/file/d/1LJ5WNl268DcQdG0UDKhhUtpaKep2asEL/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny.**
 
